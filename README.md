@@ -12,19 +12,6 @@ If the guessed number is incorrect, the player loses their bet amount.
 The game continues until the player runs out of money.
 Players can restart the game after losing all their money.
 
-# How to Compile and Run
-
-Ensure you have a C++ compiler installed (e.g., g++ for GCC).
-Save the code in a file, e.g., game.cpp.
-Open a terminal or command prompt and navigate to the file's directory.
-Compile the code using the following command:
-
-g++ -o game game.cpp
-
-Run the compiled program:
-
-./game
-
 # How to Play
 
 Enter a deposit amount to start playing.
